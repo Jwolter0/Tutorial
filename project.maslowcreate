@@ -315,8 +315,8 @@
                 {
                     "atomType": "Readme",
                     "name": "README",
-                    "x": 1238,
-                    "y": 123,
+                    "x": 1241,
+                    "y": 137,
                     "uniqueID": 650474,
                     "ioValues": [],
                     "readmeText": "The output of the program defines what will be displayed in the project thumbnail and what shape will be used for displaying changes over time. The output of the project should be connected to the output Atom. Each Molecule comes with one Output atom which cannot be deleted."
